@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pratishtha11
+- 👋 Hi, I’m @pratishtha
 - 👀 I’m interested in Data Analyst.
 - 🌱 I’m currently learning Excel,Power Bi, SQL & Python.
 - 💞️ I’m looking to collaborate on  open source projects related to data visualization.
